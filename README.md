@@ -3,6 +3,11 @@
 ![알파제로를 분석하며 배우는 인공지능](http://image.kyobobook.co.kr/images/book/xlarge/804/x9791188621804.jpg)
 
 
+!pip uninstall tensorflow
+!pip install tensorflow==1.13.1
+
+
+
 **출판사** 제이펍  
 **원서명** AlphaZero 深層学習・強化学習・探索人工知能プログラミング実践入門(원서 ISBN: 9784862464507)  
 **저자명** 후루카와 히데카즈  
