@@ -1,10 +1,18 @@
+# RunTime 환경 
+
+# !pip uninstall tensorflow
+
+# !pip install tensorflow==1.13.1
+
+
+# ===============================
+
 # 알파제로를 분석하며 배우는 인공지능  
 
 ![알파제로를 분석하며 배우는 인공지능](http://image.kyobobook.co.kr/images/book/xlarge/804/x9791188621804.jpg)
 
 
-!pip uninstall tensorflow
-!pip install tensorflow==1.13.1
+
 
 
 
