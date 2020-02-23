@@ -2,6 +2,8 @@
 
 # !pip uninstall tensorflow
 
+# !pip install tensorflow==1.15.0rc3
+
 # !pip install tensorflow==1.13.1
 
 
