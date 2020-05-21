@@ -6,6 +6,10 @@
 
 # !pip install tensorflow==1.13.1
 
+# !pip install python==3.6.3
+# !pip install matplotlib==3.0.3
+# !pip install pandas=0.24.2
+
 
 # ===============================
 
