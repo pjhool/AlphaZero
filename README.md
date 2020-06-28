@@ -12,6 +12,8 @@
 
 
 # !pip install tensorflow==1.13.1  <== textbook
+# !pip install gym==0.10.11
+
 
 
 # ===============================
